@@ -8,7 +8,7 @@ This template provides a minimal setup to get React working in Vite, TypeScript,
 2. Install dependencies: `pnpm install`
 3. Start the dev server: `pnpm dev`
 
-### Or
+### Or: 
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/madeinspace/MutesUI-Web)
 
